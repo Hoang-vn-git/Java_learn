@@ -1,0 +1,15 @@
+- Ghi chú trong Java 
+
+- // ghi chú trên 1 dòng 
+
+- /*
+ghi chú trên nhiều dòng
+ghi chú trên nhiều dòng
+*/ 
+
+
+- Chú thích để tạo tài liệu hướng dẫn 
+
+/**
+
+*/
